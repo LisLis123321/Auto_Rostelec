@@ -2,6 +2,8 @@
 
 ### Объект тестирования: [Ростелеком Информационные Технологии](https://b2c.passport.rt.ru)
 
+Ссылка на облако, в котором расположены тест-кейсы: https://docs.google.com/spreadsheets/d/1ADRYdz32uZRLUAbzQN3q6MdPiwPOa9Yf/edit?usp=sharing&ouid=109815376865304815419&rtpof=true&sd=true
+
 ___
 В рамках проекта произведено ручное и автоматизированное тестирование нового интерфейса авторизации в личном кабинете с
 применением PyTest и Selenium Webdriver
